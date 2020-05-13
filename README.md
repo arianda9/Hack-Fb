@@ -12,11 +12,11 @@ $ pip2 install requests
 
 $ pkg install git
 
-$ git clone https://github.com/aceptriana/fb
+$ git clone https://github.com/arianda9/Hack-Fb
 
-$ cd fb
+$ cd Hack-Fb
 
-$ python2 gas.py
+$ python2 hack.py
 
 Username : Debo02
 
